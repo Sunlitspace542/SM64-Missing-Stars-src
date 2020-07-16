@@ -5,6 +5,7 @@ Source code to SM64: The Missing Stars, from Frauber (messiaen)'s website: https
 I'm unsure exactly, but make sure you can compile for MIPS with MIPS-linux-gnu-gcc or something similar, more info in makefile in the messy-original-unorganized-code/ folder
 
 #Frauber's readme
+
 "Super Mario 64: The Missing Stars" v1.1 by messiaen (aka frauber) 
 ------------------------------------------------------------------
 
@@ -58,8 +59,7 @@ http://sites.google.com/site/messiaen64/themissingstars which shall contain
 all information needed to play this hack.
 
 
-Applying the patch
-------------------
+#Applying the patch
 
 You'll need a Mario 64 US (NTSC) ROM, usually called "Super Mario 64 (U)!.z64"
 in order to play this hack. Here's how you should proceed:
@@ -87,8 +87,7 @@ These two steps should be simple, but in case you're having trouble,
 a tutorial will be uploaded to http://sites.google.com/site/messiaen64/themissingstars
 
 
-Setting up your emulator
-------------------------
+#Setting up your emulator
 
 Once you have sucessfully extended and patched your ROM, there might be a
 few adjustments needed depending on the emulator you are using, because this
@@ -111,8 +110,7 @@ Load the ROM again and the hack should be running.
 
 
 
-Video Plugins
--------------
+#Video Plugins
 
 There might be some minor graphical glitches depending on the plugin you are using.
 
@@ -120,17 +118,14 @@ Jabo's Direct 3.D 1.6 (do not use version 1.5.2) and glN64 should give you the
 best video output. A more detailed plugin report may be uploaded to my site futurely.
 
 
-About the camera
-----------------
+#About the camera
 
 Mario 64 uses a set of hardcoded camera positions for each level and I couldn't
 get rid of it (so far) in this hack. Some jumps will require more camera work
 (the c-buttons) than the original game, and some angles aren't easily acessible.
 
 
-FAQ:
-----
-
+#FAQ:
 
 Q: PJ64 says the game is trying to read from unmapped space.
 A: Read again the part about enabling extended memory.
@@ -169,8 +164,7 @@ A: Yes, but only if you have already done something similar and know the basics 
 like using a text table. You can get in contact with me through YouTube (user 'frauber').
 
 
-Custom music used
------------------
+#Custom music used
 
 Title Screen - Good Egg Galaxy (Mario Galaxy)
 File Select - Seiken Denetsu 3 File Select
@@ -191,8 +185,7 @@ Secret Woods (Day) - Flower Gardens Athletic (Yoshi's Island DS)
 (*) Music ports done by RDX.
 
 
-Some history and afterthoughts ...
-----------------------------------
+#Some history and afterthoughts
 
 Working on this hack has been both rewarding and frustrating. Those who know something
 about the inner workings on Mario64 and the limitations of the tools available during 
@@ -246,7 +239,7 @@ And so, on the beginning of 2009, a lot more confident in MIPS and C, I continue
 Stars" (the name actually came much later, suggested by Darkdata). Towards the end of the hack, I got
 some very useful help from Skelux (major work in the undergrounds area), RDX (custom music), and Darkdata
 (title screen background) and the hack (v1.0) was finally released on the beginning of May 2009.
----
+
 visit my YouTube Channel @ http://youtube.com/user/frauber
 my Mario 64 site @ http://sites.google.com/site/messiaen64/
 
