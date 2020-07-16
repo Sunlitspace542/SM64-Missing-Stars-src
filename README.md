@@ -205,7 +205,7 @@ of Flatworld which I called "Platform Battlefield". There were a bunch of proble
 method, as objects are only drawn when you are near enough from them, resulting in a very 
 artificial experience.
 
-I was almost giving up when Celux came with the amazing "Secret Woods" level done with my 
+I was almost giving up when Skelux came with the amazing "Secret Woods" level done with my 
 Platform Battlefield patch. I was really amazed at how much he had done with my custom objects, 
 however there were still the same problems: the level was slow as hell (pratically unplayable) and
  objects were only shown when Mario was very near from them. By that time I was learning some MIPS
@@ -218,7 +218,7 @@ I got the game to display the objects regardless of Mario distance while still k
 only loaded when Mario is near enough.
 
 With that set, I knew that a full hack would be possible using only objects as level geometry. I 
-initially proposed it as a team hack, and anyone who could, like Celux, make a nice level around these
+initially proposed it as a team hack, and anyone who could, like Skelux, make a nice level around these
 custom objects would get in. That didn't work. Many people started working on levels and after a while
 gave up, and I don't blame them because it's really hard to get a decent result. Meanwhile, I worked on
 a few more assembly hacks, such as the day-night system, the play as Mario or Luigi option using VL-Tone's
