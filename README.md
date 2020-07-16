@@ -6,16 +6,14 @@ I'm unsure exactly, but make sure you can compile for MIPS with MIPS-linux-gnu-g
 
 # Frauber's readme
 
-"Super Mario 64: The Missing Stars" v1.1 by messiaen (aka frauber) 
-------------------------------------------------------------------
+# "Super Mario 64: The Missing Stars" v1.1 by messiaen (aka frauber) 
 
 
 This is the first ever "complete" hack of Mario 64. None of the original
 levels have been used and the gamplay has been changed in many aspects.
 
 
-Main Features:
---------------
+## Main Features:
 
 - 38 stars in about 10 levels
 - A Day/night cycle replacing (most) act selectors
@@ -24,13 +22,13 @@ Main Features:
 - Custom music, including one original song (the town "night" music).
 - A new final boss fight
 
-To switch between Mario and Luigi in the title screen, press D-pad Left
+To switch between Mario and Luigi on the title screen, press D-pad Left
 (Luigi) or D-Pad Right (Mario).
 
 There are also many 'invisible' modifications that make make this hack work:
 extended memory support, a new collision pointer system (lookup tables instead
 of hardcoded pointers), modified script commands and a bunch of other minor 
-stuff. The source code for all these hacks will be available on my site futurely.
+stuff. The source code for all these hacks will be available on my site.
 
 
 Have fun finding all the missing stars!
@@ -59,7 +57,7 @@ http://sites.google.com/site/messiaen64/themissingstars which shall contain
 all information needed to play this hack.
 
 
-#Applying the patch
+## Applying the patch
 
 You'll need a Mario 64 US (NTSC) ROM, usually called "Super Mario 64 (U)!.z64"
 in order to play this hack. Here's how you should proceed:
@@ -87,7 +85,7 @@ These two steps should be simple, but in case you're having trouble,
 a tutorial will be uploaded to http://sites.google.com/site/messiaen64/themissingstars
 
 
-#Setting up your emulator
+## Setting up your emulator
 
 Once you have sucessfully extended and patched your ROM, there might be a
 few adjustments needed depending on the emulator you are using, because this
@@ -110,22 +108,22 @@ Load the ROM again and the hack should be running.
 
 
 
-#Video Plugins
+## Video Plugins
 
 There might be some minor graphical glitches depending on the plugin you are using.
 
 Jabo's Direct 3.D 1.6 (do not use version 1.5.2) and glN64 should give you the
-best video output. A more detailed plugin report may be uploaded to my site futurely.
+best video output. A more detailed plugin report may be uploaded to my site in the future.
 
 
-#About the camera
+## About the camera
 
 Mario 64 uses a set of hardcoded camera positions for each level and I couldn't
 get rid of it (so far) in this hack. Some jumps will require more camera work
 (the c-buttons) than the original game, and some angles aren't easily acessible.
 
 
-#FAQ:
+## FAQ:
 
 Q: PJ64 says the game is trying to read from unmapped space.
 A: Read again the part about enabling extended memory.
@@ -164,7 +162,7 @@ A: Yes, but only if you have already done something similar and know the basics 
 like using a text table. You can get in contact with me through YouTube (user 'frauber').
 
 
-#Custom music used
+## Custom music used
 
 Title Screen - Good Egg Galaxy (Mario Galaxy)
 File Select - Seiken Denetsu 3 File Select
@@ -185,7 +183,7 @@ Secret Woods (Day) - Flower Gardens Athletic (Yoshi's Island DS)
 (*) Music ports done by RDX.
 
 
-#Some history and afterthoughts
+## Some history and afterthoughts
 
 Working on this hack has been both rewarding and frustrating. Those who know something
 about the inner workings on Mario64 and the limitations of the tools available during 
