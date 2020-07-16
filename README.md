@@ -4,7 +4,7 @@ Source code to SM64: The Missing Stars, from Frauber (messiaen)'s website: https
 # Compiling
 I'm unsure exactly, but make sure you can compile for MIPS with MIPS-linux-gnu-gcc or something similar, more info in makefile in the messy-original-unorganized-code/ folder
 
-#Frauber's readme
+# Frauber's readme
 
 "Super Mario 64: The Missing Stars" v1.1 by messiaen (aka frauber) 
 ------------------------------------------------------------------
@@ -243,4 +243,4 @@ some very useful help from Skelux (major work in the undergrounds area), RDX (cu
 visit my YouTube Channel @ http://youtube.com/user/frauber
 my Mario 64 site @ http://sites.google.com/site/messiaen64/
 
-#end of Frauber's readme
+# End of Frauber's readme
